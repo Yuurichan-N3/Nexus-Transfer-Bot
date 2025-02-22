@@ -1,6 +1,6 @@
 web3==7.8.0  # Untuk interaksi dengan blockchain Ethereum (smart contracts, wallet, dll.)
-eth-account==0.8.0  # Untuk mengelola akun Ethereum dan kunci pribadi
-requests==2.31.0  # Untuk HTTP requests (misalnya, ke RPC jaringan Nexus)
-rich==13.7.1  # Untuk tampilan terminal yang interaktif dan tabel real-time
-python-dotenv==1.0.1  # Untuk mengelola variabel lingkungan (opsional, jika ada konfigurasi rahasia)
-schedule==1.2.1  # Untuk menjalankan tugas periodik (misalnya, memantau saldo)
+eth-account  # Untuk mengelola akun Ethereum dan kunci pribadi
+requests  # Untuk HTTP requests (misalnya, ke RPC jaringan Nexus)
+rich==  # Untuk tampilan terminal yang interaktif dan tabel real-time
+python-dotenv  # Untuk mengelola variabel lingkungan (opsional, jika ada konfigurasi rahasia)
+schedule  # Untuk menjalankan tugas periodik (misalnya, memantau saldo)
