@@ -4,9 +4,13 @@ Dua skrip Python ini bekerja sama untuk mengotomatisasi transfer token NEX antar
 
 ## 📂 Struktur Proyek
 ├── bot.py               # Membuat wallet baru, memantau saldo, dan mentransfer token
+
 ├── sendback.py          # Mengembalikan token dari wallet ke wallet utama
+
 ├── PrivateKeys.txt      # File untuk menyimpan kunci pribadi secara manual
+
 ├── wallets.txt          # Daftar alamat wallet tujuan
+
 ├── privatekeys.json     # Kunci pribadi yang dibuat secara otomatis
 
 
