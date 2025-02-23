@@ -58,7 +58,7 @@ class BotTransferNexus:
         # Konfigurasi
         self.FILE_KUNCI_JSON = 'privatekeys.json'  # Sumber kunci pribadi pengirim
         self.WALLET_TUJUAN = '0xC9b1D27074B98f0c34b80875CbFA9783EbE770C8'  # Ganti dengan alamat penerima Anda
-        self.URL_PING = 'https://rpc.nexus.xyz/http'
+        self.URL_PING = 'https://nexus.rpc.caldera.xyz/http'
         self.SALDO_MINIMUM = 1.0
         self.JUMLAH_TRANSFER_MAKS = 0.001
         self.CADANGAN = 0.5
