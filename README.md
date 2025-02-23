@@ -92,3 +92,19 @@ Saat bot berjalan, Anda akan melihat tabel status wallet dan log transaksi secar
 
 - Pastikan jaringan RPC yang digunakan (`https://rpc.nexus.xyz/http`) aktif.
 - Jangan bagikan kunci pribadi Anda! Pastikan file kunci hanya bisa diakses oleh Anda.
+
+
+---
+
+
+## 📜 Lisensi  
+
+Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.  
+
+Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://t.me/sentineldiscus).
+
+
+---
+
+## 💡 Disclaimer
+Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
