@@ -59,7 +59,7 @@ class BotTransferNexus:
         self.FILE_KUNCI_PRIBADI = 'PrivateKeys.txt'
         self.FILE_TUJUAN = 'wallets.txt'
         self.FILE_KUNCI_TERBUAT = 'privatekeys.json'
-        self.URL_PING = 'https://rpc.nexus.xyz/http'
+        self.URL_PING = 'https://nexus.rpc.caldera.xyz//http'
         self.SALDO_MINIMUM = 1.0
         self.JUMLAH_TRANSFER_MAKS = 0.01
         self.CADANGAN = 0.5
